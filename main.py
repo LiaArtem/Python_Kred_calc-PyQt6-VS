@@ -13,7 +13,7 @@ from calendar import monthrange
 from PyQt6 import QtCore, QtWidgets
 from PyQt6.QtGui import QColor, QIcon
 from PyQt6.QtWidgets import QApplication, QMainWindow, QTableWidgetItem, QMessageBox, QWidget
-from ui_MainWindow import Ui_MainWindow
+from MainWindow_ui import Ui_MainWindow
 
 
 class Error_MessageBox_Window(QWidget):
