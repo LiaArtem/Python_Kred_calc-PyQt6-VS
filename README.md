@@ -11,9 +11,9 @@ IDE - Visual Studio Code
 
 У командному рядку терміналу CMD
 2) Додаємо бібліотеки
--> pip install PyQt6
--> pip install python-dateutil
--> pip install xmltodict
+-> pip install PyQt6 --upgrade
+-> pip install python-dateutil --upgrade
+-> pip install xmltodict --upgrade
 
 3) Qt Designer
 Окремо встановлюємо:
